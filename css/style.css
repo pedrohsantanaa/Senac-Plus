@@ -88,3 +88,21 @@ body {
     margin-top: 0.3rem;
     display: inline-block;
 }
+
+.dispositivos {
+    text-align: center;
+}
+
+.dispositivos__lista {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.dispositivos__titulo {
+    font-size: 3rem;
+}
+
+.lista__item {
+    font-size: 2rem;
+}
